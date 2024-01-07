@@ -1,7 +1,7 @@
-pkg install git
+$ pkg install git
 
-git clone https://github.com/Mrforces/UNBANNED
+$ git clone https://github.com/Mrforces/UNBANNED
 
-cd UNBANNED
+$ cd UNBANNED
 
-bash Unban.sh
+$ bash Unban.sh
